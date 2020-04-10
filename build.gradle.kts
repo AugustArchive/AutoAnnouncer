@@ -7,7 +7,7 @@ plugins {
   java
 }
 
-val ver = Version(1, 0, 0)
+val ver = Version(1, 1, 0)
 group = "dev.august"
 version = ver.get()
 
