@@ -6,3 +6,12 @@ author: "August <august@augu.dev>"
 load: "STARTUP"
 prefix: "AutoAnnouncer"
 website: "https://augu.dev"
+commands:
+  areload:
+    permission-message: "Sorry, you don't have the permission to do so!"
+    description: "Reloads the plugin if the plugin has errored."
+    permission: "announcer.reload"
+permissions:
+  announcer.reload:
+    description: "Permission to reload the plugin if it errored."
+    defaults: "op"

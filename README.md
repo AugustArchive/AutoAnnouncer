@@ -32,5 +32,8 @@ announcements:
 - [KurozeroPB](https://github.com/KurozeroPB) **-** The timer core itself
 - [WorldEdit](https://github.com/EngineHub) **-** The configuration loader
 
+## Plugin Intentions
+This plugin was made for the [discord.boats](https://discord.boats) Minecraft server that was recently released. Anyone can use this plugin, but it was for that specific server.
+
 ## License
 **AutoAnnouncer** is released under the **MIT** License. Read [here](/LICENSE) for more information.
