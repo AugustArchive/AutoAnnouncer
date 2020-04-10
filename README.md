@@ -14,6 +14,20 @@ You will need Java 1.8 or higher on your machine.
 - Run `gradlew shadowJar` (or `./gradlew shadowJar`) to build the JAR file
 - Grab the JAR file from `build/libs` and do the process in the [installation](#installing) section!
 
+## Configuration
+```yaml
+# The prefix of the announcements, use '&' for colors
+prefix: ""
+
+# the amount of milliseconds to announce it
+interval: 5000
+
+# the list of announcements to say
+announcements:
+  - test
+  - test 2
+```
+
 ## Credits
 - [KurozeroPB](https://github.com/KurozeroPB) **-** The timer core itself
 - [WorldEdit](https://github.com/EngineHub) **-** The configuration loader
