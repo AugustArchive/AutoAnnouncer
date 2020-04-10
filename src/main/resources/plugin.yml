@@ -1,0 +1,8 @@
+api-version: "1.15"
+main: dev.august.plugins.minecraft.announcer.AutoAnnouncer
+name: Announcements
+version: "1.0.0"
+author: "August <august@augu.dev>"
+load: "STARTUP"
+prefix: "AutoAnnouncer"
+website: "https://augu.dev"
